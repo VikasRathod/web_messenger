@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web_messenger/static/css/main.1c3df511.chunk.css",
+    "main.js": "/web_messenger/static/js/main.4d635b5c.chunk.js",
+    "main.js.map": "/web_messenger/static/js/main.4d635b5c.chunk.js.map",
+    "runtime-main.js": "/web_messenger/static/js/runtime-main.99d6de32.js",
+    "runtime-main.js.map": "/web_messenger/static/js/runtime-main.99d6de32.js.map",
+    "static/js/2.7b03f92d.chunk.js": "/web_messenger/static/js/2.7b03f92d.chunk.js",
+    "static/js/2.7b03f92d.chunk.js.map": "/web_messenger/static/js/2.7b03f92d.chunk.js.map",
+    "index.html": "/web_messenger/index.html",
+    "precache-manifest.dea8bb757e34b8c9d4ecbda9c5e7f018.js": "/web_messenger/precache-manifest.dea8bb757e34b8c9d4ecbda9c5e7f018.js",
+    "service-worker.js": "/web_messenger/service-worker.js",
+    "static/css/main.1c3df511.chunk.css.map": "/web_messenger/static/css/main.1c3df511.chunk.css.map",
+    "static/js/2.7b03f92d.chunk.js.LICENSE.txt": "/web_messenger/static/js/2.7b03f92d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/web_messenger/static/media/chat-background.97c00759.png",
+    "static/media/App.css": "/web_messenger/static/media/nature.509191fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d6de32.js",
+    "static/js/2.7b03f92d.chunk.js",
+    "static/css/main.1c3df511.chunk.css",
+    "static/js/main.4d635b5c.chunk.js"
+  ]
+}
